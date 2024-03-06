@@ -1,0 +1,110 @@
+{
+"collections": {
+    "User": [
+        {
+            "username": "usuario123",
+            "password": "contraseña123",
+            "email": "usuario123@example.com",
+            "phone": "+1234567890",
+            "user_interests": [
+              {
+                "category": "Deportes",
+                "subcategory": "Fútbol",
+                "additionalField1": "Campo",
+                "additionalField2": "Equipo favorito: Barcelona"
+              },
+              {
+                "category": "Música",
+                "subcategory": "Rock",
+                "additionalField1": "Artista favorito: The Beatles",
+                "additionalField2": null
+              }
+            ],
+            "user_birthdate": "1990-01-01",
+            "user_demographics": {
+              "age": 30,
+              "gender": "Masculino",
+              "location": {
+                "country": "España",
+                "province": "Madrid"
+              }
+            }
+          }
+          
+    ],
+    "Cocktail": [
+        {
+            "cocktail_name": "Margarita",
+            "cocktail_description": "Un cóctel refrescante hecho con tequila, jugo de limón y triple sec.",
+            "cocktail_img": "https://ejemplo.com/margarita.jpg",
+            "cocktail_state": "Clásico"
+          }
+          
+    ],
+    "Drink": [
+        {
+            "drink_name": "Piña Colada",
+            "drink_description": "Un cóctel tropical cremoso y refrescante hecho con ron, crema de coco y jugo de piña.",
+            "drink_img": "https://ejemplo.com/pina_colada.jpg",
+            "drink_state": "Suave y Delicioso"
+          }
+          
+    ],
+    "Event": [
+        {
+            "event_name": "Fiesta en la Playa",
+            "event_state": "Activo",
+            "event_activity_name": "Voleibol de Playa",
+            "event_activity_duration": "2 horas",
+            "event_activity_descrip": "¡Únete a nosotros para un divertido juego de voleibol de playa en la arena!",
+            "event_space_name": "Frente a la Playa",
+            "event_space_descrip": "Una hermosa extensión de playa de arena con aguas cristalinas.",
+            "event_space_schedule": "10:00 AM - 4:00 PM",
+            "event_entertainment_name": "Música en Vivo",
+            "event_entertainment_descrip": "Disfruta de actuaciones de música en vivo durante todo el día.",
+            "event_entertainment_schedule": "12:00 PM - 3:00 PM"
+          }
+          
+    ],
+    "Food" : [{
+        "plate_name": "Salmón a la Parrilla",
+        "plate_description": "Filete de salmón fresco marinado en hierbas y especias, asado a la perfección.",
+        "plate_img": "https://ejemplo.com/salmon_parrilla.jpg",
+        "plate_type": "Mariscos",
+        "plate_state": "Suntuoso y Sabroso"
+      }
+      ],
+
+    "Person": [
+        {
+            "per_user_id": { "__type": "Pointer", "className": "_User", "objectId": "Sh4IAAAm1E" },
+            "per_interestss": "salsa bolognesa"
+          }
+          
+    ],
+    "Reservation": [
+        {
+            "userId": "usuario123",
+            "res_type": "Habitación",
+            "res_room": "Suite Deluxe",
+            "res_img": "https://ejemplo.com/suite_deluxe.jpg",
+            "res_date": "2024-08-15",
+            "res_adults": 2,
+            "res_teenagers": 1,
+            "res_children": 0
+          }
+          
+    ],
+    "Service" : [
+        {
+            "service_name": "Paquete de Spa",
+            "service_type": "Bienestar",
+            "service_souvenir_name": "Velas de Aromaterapia",
+            "service_souvenir_descript": "Llévate a casa un conjunto de velas de aromaterapia relajantes para desconectar después de tu experiencia en el spa.",
+            "service_state": "Relajante"
+          }
+          
+    ]
+}
+}
+

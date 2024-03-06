@@ -1,0 +1,149 @@
+{"code":202,"level":"error","message":"Account already exists for this username.","stack":"Error: Account already exists for this username.\n    at C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\RestWrite.js:683:15\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T14:00:32.455Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:00:38.162Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:00:46.607Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:00:54.315Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:02.411Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:11.783Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:20.626Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:28.583Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:35.998Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:43.636Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:52.167Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:01:59.470Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:02:06.225Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:02:14.841Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:02:22.071Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:02:26.761Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:19:16.513Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:19:25.186Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:19:33.211Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:19:41.284Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:19:50.681Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:19:59.892Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:20:09.259Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:20:17.580Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:20:25.888Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:20:32.787Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:20:40.778Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:20:47.871Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:20:56.703Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:21:06.737Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:21:14.977Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:21:21.563Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:21:30.800Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:21:39.810Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:21:46.874Z"}
+{"code":202,"level":"error","message":"Account already exists for this username.","stack":"Error: Account already exists for this username.\n    at C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\RestWrite.js:683:15\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T14:21:51.372Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:21:55.288Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:04.379Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:13.919Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:24.145Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:31.377Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:36.691Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:43.999Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:48.801Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:22:55.548Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:00.229Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:07.360Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:13.604Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:20.747Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:25.231Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:31.413Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:41.838Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:23:55.190Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:24:07.311Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:24:19.592Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:24:33.701Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:42:30.204Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:42:39.287Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:42:48.573Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:42:56.486Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:49:22.832Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:49:35.951Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:49:47.337Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T14:49:57.143Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:09:03.783Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:09:13.827Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:09:21.036Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:09:29.309Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:09:37.635Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:10:27.410Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:10:36.739Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:10:43.876Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:10:50.683Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:10:58.165Z"}
+{"code":255,"level":"error","message":"Class drink is not empty, contains 3 objects, cannot drop schema.","stack":"Error: Class drink is not empty, contains 3 objects, cannot drop schema.\n    at C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\DatabaseController.js:1350:21\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T15:15:07.572Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:16:07.008Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:16:16.458Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:16:24.193Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:16:34.581Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:16:42.315Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:20:03.061Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:20:08.860Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:20:17.698Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:20:26.759Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:20:33.814Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:39:43.838Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:39:54.970Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:40:04.063Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:40:12.333Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:40:20.150Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:43:57.941Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:44:07.172Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:44:14.390Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:44:23.501Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:44:31.995Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:55:53.189Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:56:02.939Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:56:11.980Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:56:19.967Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:56:27.300Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:59:01.780Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:59:10.309Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:59:18.800Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T15:59:26.081Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:09:58.457Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:10:05.616Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:11:49.032Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:11:57.678Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:14:59.982Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:15:10.953Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:15:18.358Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:15:25.365Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:15:32.445Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:16:43.983Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:16:52.554Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:17:01.258Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:17:08.301Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:17:15.266Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:23:42.008Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:45:47.699Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:47:46.817Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:48:29.628Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:56:39.270Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:58:26.217Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T16:59:00.443Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T17:27:48.631Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T17:31:12.993Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T17:31:46.925Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T17:31:52.626Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T17:31:58.143Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T17:32:04.335Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","port":2337,"syscall":"listen","timestamp":"2024-02-27T17:32:10.273Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:17:42.110Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:18:16.047Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:21:13.684Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:26:53.476Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:30:09.970Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:30:17.534Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:59:01.296Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T19:59:12.591Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T20:38:00.841Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T20:40:12.467Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T20:42:47.511Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T20:42:49.378Z"}
+{"code":111,"level":"error","message":"This is not a valid Pointer","stack":"Error: This is not a valid Pointer\n    at getObjectType (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1568:11)\n    at getType (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1508:14)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1237:32)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T20:53:12.654Z"}
+{"code":111,"level":"error","message":"This is not a valid Pointer","stack":"Error: This is not a valid Pointer\n    at getObjectType (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1568:11)\n    at getType (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1508:14)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1237:32)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T20:54:24.073Z"}
+{"code":111,"level":"error","message":"schema mismatch for person.per_user_id; expected String but got Pointer<_User>","stack":"Error: schema mismatch for person.per_user_id; expected String but got Pointer<_User>\n    at SchemaController.enforceFieldExists (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1112:15)\n    at SchemaController.validateObject (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\Controllers\\SchemaController.js:1261:28)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-27T21:02:47.025Z"}
+{"error":{"code":142,"message":"Validation failed. Please login to continue."},"functionName":"deletePerson","level":"error","message":"Failed running cloud function deletePerson for user undefined with:\n  Input: {\"personId\":\"DRrpEfP1vb\"}\n  Error: {\"message\":\"Validation failed. Please login to continue.\",\"code\":142}","params":{"personId":"DRrpEfP1vb"},"timestamp":"2024-02-27T21:23:58.195Z"}
+{"code":142,"level":"error","message":"Validation failed. Please login to continue.","stack":"Error: Validation failed. Please login to continue.\n    at resolveError (C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\triggers.js:608:12)\n    at C:\\Users\\51921\\DEV\\work\\template-backend\\node_modules\\parse-server\\src\\triggers.js:635:23","timestamp":"2024-02-27T21:23:58.204Z"}
